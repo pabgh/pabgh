@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro.
 
-👋 Olá! Sou [seu nome], um entusiasta de TI em transição de carreira para o desenvolvimento back-end. 💻🔙🔙
+👋 Olá! Sou Pedro, um entusiasta de TI em transição de carreira para o desenvolvimento back-end. 💻🔙🔙
 
 💼 Atualmente estou como estagiário de TI, com ênfase em gestão de ativos, análise de riscos e melhoria de processos. No entanto, meu foco principal é aprofundar meus estudos na linguagem Python e no framework Django.
 
@@ -23,8 +23,7 @@
 🌟 Este é o meu perfil no GitHub, onde compartilho meus projetos e contribuições na área de desenvolvimento back-end. Fique à vontade para explorar meus repositórios e entrar em contato para trocar ideias e colaborar.
 
 📫 **Informações de Contato:**
-- E-mail: [seu e-mail]
-- LinkedIn: [seu perfil do LinkedIn]
-- GitHub: [seu perfil do GitHub]
+- E-mail: pedroaborges@outlook.com.br
+- LinkedIn: https://www.linkedin.com/in/pedro-alves-borges/
 
 Obrigado pela visita! Vamos juntos criar soluções eficientes e impactantes! 💪😊
