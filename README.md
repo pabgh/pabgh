@@ -2,7 +2,7 @@
 
 👋 Olá! Sou Pedro, um entusiasta de TI em transição de carreira para o desenvolvimento back-end. 💻🔙🔙
 
-📚 Sou aluno de Sistemas de Informação no Instituto Mauá de Tecnologia, e atualmente estou no meu 4° semestre.
+🧑‍🎓 Sou aluno de Sistemas de Informação no Instituto Mauá de Tecnologia, e atualmente estou no meu 4° semestre.
 
 💼 Atualmente estou como estagiário de TI, com ênfase em gestão de ativos, análise de riscos e melhoria de processos. No entanto, meu foco principal é aprofundar meus estudos na linguagem Python e no framework Django.
 
