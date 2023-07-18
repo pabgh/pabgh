@@ -14,6 +14,7 @@
 
 - Python 🐍
 - Django 🎸
+- MySQL 🐬
 - Java ☕️
 - JavaScript 🌐
 - Node.js 🚀
