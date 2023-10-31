@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro.
 
-👋 Olá! Sou Pedro, um entusiasta de TI em transição de carreira para o desenvolvimento back-end. 💻🔙🔙
+👋 Olá! Sou Pedro, um entusiasta de TI. 💻🔙🔙
 
 🧑‍🎓 Sou aluno de Sistemas de Informação no Instituto Mauá de Tecnologia, e atualmente estou no meu 4° semestre.
 
